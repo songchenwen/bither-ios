@@ -1,4 +1,4 @@
-                                                               /* No comment provided by engineer. */
+/* No comment provided by engineer. */
 "%0.f mins ago" = "Hace %0.f minutos";
 
 /* No comment provided by engineer. */
@@ -153,7 +153,7 @@
 "Import success." = "Importación exitosa.";
 
 /* No comment provided by engineer. */
-"Invalid password" = ""Contraseña invalida";
+"Invalid password" = "Contraseña invalida";
 
 /* No comment provided by engineer. */
 "Just now" = "En este momento";
@@ -183,14 +183,13 @@
 "Next Page" = "Siguiente Página";
 
 /* username_can_not_be_more_than_10_words */
-"Nickname length can not be more than 10" = "Longitud del Apodo no puede ser más de 10"
-
+"Nickname length can not be more than 10" = "Longitud del Apodo no puede ser más de 10";
 
 /* No comment provided by engineer. */
 "No bitcoins available for donation." = "No hay bitcoins disponibles para la donación.";
 
 /* No comment provided by engineer. */
-"No private keys" = "No hay claves privadas"
+"No private keys" = "No hay claves privadas";
 
 /* No comment provided by engineer. */
 "Normal" = "Normal";
@@ -338,10 +337,6 @@
 
 /* No comment provided by engineer. */
 "Sign Transaction" = "Firmar Transacción";
-
-/* No comment provided by engineer. */
-/* suspicious error repeated? signing transaction*/
-"Sign Trasaction" = "Firmando transacción";
 
 /* No comment provided by engineer. */
 "Signed Transaction" = "Transacción firmada";
